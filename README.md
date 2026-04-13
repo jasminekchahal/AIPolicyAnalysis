@@ -1,4 +1,4 @@
-# National AI Competitiveness: A Data-Driven Policy Analysis
+# National AI Competitiveness: A Quantitative Policy Analysis
 
 This repository contains a quantitative evaluation of global AI competitiveness, integrating data from the **Stanford AI Index** and the **Tortoise Global AI Index**. The project focuses on identifying the structural drivers of AI leadership to provide evidence-based policy recommendations for the Canadian innovation ecosystem.
 
